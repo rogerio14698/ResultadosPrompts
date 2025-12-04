@@ -1,5 +1,5 @@
 # Imagen generadas a partir del prompt:
 Inspirador, positivo y educativo(Titulo). Una figura humana con la cabeza destacada mediante elementos visuales simbólicos (Sujeto) La mente emitiendo o conectando con elementos que representen creatividad, conocimiento, imaginación y transformación como (Libros, fractales, universos, planos, estructuras tecnológicas y naturales)(acción).Un fondo simbólico que refuerce el concepto de "Poder Mental", con atmósfera positiva y aspiracional.  (Entorno) que represente "el poder de la mente "(entorno), Ilustración digital estilo realista (estilo) con luz amarilla, sombras suaves y efectos luminoso alrededor de la mente. (iluminación), colores cálidos y contrastados que armonicen con el amarillo protagonista (color), em fpr,atp 16:9 con alta resolución 8K, alta nitidez (formato).
 
-<img src="/tema2/img/imagen1.jpg" alt="Imagen 1 color principal azul">
-<img src="/tema2/img/imagen2.jpg" alt="Imagen 1 color principal amarillo">
+<img src="img/imagen1.jpg" alt="Imagen 1 color principal azul">
+<img src="img/imagen2.jpg" alt="Imagen 2 color principal amarillo">
